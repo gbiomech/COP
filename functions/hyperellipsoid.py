@@ -1,4 +1,3 @@
-
 """Prediction hyperellipsoid for multivariate data."""
 
 
